@@ -1,0 +1,26 @@
+This file describes the directories found at the root of the Amazon FreeRTOS
+distribution.
+
+demos:
+Contains a set of pre-configured demo projects for various target platforms.
+The projects in the demos directory build the libraries from the lib directory.
+
+doc:
+Contains Doxygen configuration, and board qualification guide.
+Not in master branch (bitbucket); only in freertos_stable
+
+freertos_kernel:
+Contains FreeRTOS kernel distribution.
+
+libraries:
+Contains standard libraries, AWS libraries, and third-party libraries.
+
+projects:
+Contains IDE project files.
+
+tests:
+Contains Unity framework and test runner.
+Not in master branch (bitbucket); only in freertos_stable
+
+vendors:
+Contains platform-specific ports, SDKs, and tools.

@@ -1,0 +1,4 @@
+[submodule "linux-optiga-trust-m"]
+	path = linux-optiga-trust-m
+	url = https://github.com/ying-css/linux-optiga-trust-m
+	branch = development_v3
